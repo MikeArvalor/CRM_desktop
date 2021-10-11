@@ -1,0 +1,16 @@
+.nav{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.nav_wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.right_wrap li{
+    text-decoration: none;
+    list-style-type: none;
+    display:inline-flex ;
+    
+
+}
