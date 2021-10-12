@@ -10,11 +10,14 @@ class Main extends React.Component{
                         <p>ITEC</p>
                     </div>
                     <div className="right_wrap">
-                        <ul>
-                            <li>Главная</li>
-                            <li>Группы</li>
-                            <li>Расписание</li>
-                            <li>Личный кабинет</li>
+                        <ul className="right_wrap_ul">
+                            <li><a href="#">Главная</a></li>
+                            <li><a href="#">Список групп</a></li>
+                            <li><a href="#">Чат</a></li>
+                            <li><a href="#">Расписание</a></li>
+                            <li><a href="#">Преподаватели</a></li>
+                            <li><a href="#">Расходы</a></li>
+                            <li><a href="#">Обработка запроса</a></li>
                         </ul>
                     </div>
                 </div>
